@@ -1,2 +1,3 @@
 vi命令测试wefwfewdfs
 撤销后再提交
+测试git 缓存区
